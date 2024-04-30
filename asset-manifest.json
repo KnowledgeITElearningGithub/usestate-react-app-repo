@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usestate-react-app-repo/static/css/main.db62923b.css",
+    "main.js": "/usestate-react-app-repo/static/js/main.05417d80.js",
+    "static/js/453.b921a8cb.chunk.js": "/usestate-react-app-repo/static/js/453.b921a8cb.chunk.js",
+    "index.html": "/usestate-react-app-repo/index.html",
+    "main.db62923b.css.map": "/usestate-react-app-repo/static/css/main.db62923b.css.map",
+    "main.05417d80.js.map": "/usestate-react-app-repo/static/js/main.05417d80.js.map",
+    "453.b921a8cb.chunk.js.map": "/usestate-react-app-repo/static/js/453.b921a8cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.05417d80.js"
+  ]
+}
